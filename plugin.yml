@@ -1,0 +1,4 @@
+name: ChatEmojiPlugin
+version: 1.0
+main: com.yourname.ChatEmojiPlugin
+api-version: 1.20

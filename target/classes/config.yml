@@ -1,0 +1,7 @@
+emojis:
+  pepe:
+    symbol: "\uE100"
+    image: "pepe.png"
+  smile:
+    symbol: "\uE101"
+    image: "smile.png"

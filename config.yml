@@ -1,0 +1,37 @@
+emojis:
+  D_jokerge:
+    image: pepe.png
+    symbol: "\uE100"
+  A_smeyalsya:
+    image: smile.png
+    symbol: "\uE101"
+  B_fear:
+    image: fear.png
+    symbol: "\uE102"
+  B_boyni:
+    image: boyni.png
+    symbol: "\uE103"
+  A_glypi:
+    image: glypi.png
+    symbol: "\uE104"
+  B_temno:
+    image: temno.png
+    symbol: "\uE105"
+  AB_cherh:
+    image: cherh.png
+    symbol: "\uE106"
+  C_stare:
+    image: stare.png
+    symbol: "\uE107"
+  A_kruti:
+    image: kruti.png
+    symbol: "\uE108"
+  D_saj:
+    image: saj.png
+    symbol: "\uE109"
+  D_smoke:
+    image: smoke.png
+    symbol: "\uE10A"
+  C_aga:
+    image: aga.png
+    symbol: "\uE10B"
